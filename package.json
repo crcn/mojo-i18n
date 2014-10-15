@@ -1,0 +1,29 @@
+{
+  "name": "mojo-i18n",
+  "version": "0.0.2",
+  "description": "- ability to dynamically reload i18n strings without reloading the application",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojo-js/mojo-i18n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojo-js/mojo-i18n/issues"
+  },
+  "homepage": "https://github.com/mojo-js/mojo-i18n",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.21.5",
+    "mojo-application": "^0.1.0",
+    "mojo-paperclip": "^0.6.3",
+    "mojo-views": "^0.2.5"
+  },
+  "dependencies": {
+    "bindable": "0.6.x"
+  }
+}
